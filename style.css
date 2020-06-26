@@ -1,0 +1,92 @@
+body{
+	background: #393939;
+}
+
+
+
+
+section {
+	border-top: 7px solid black;
+	padding: 20px 0 0;
+}
+
+section:first-child {
+	border-top: 0;
+}
+
+section:last-child {
+	padding: 50px 0 10px;
+}
+
+
+p{
+	color: purple;
+	margin: 5px;
+	padding-top: 1px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  padding-left: 80px;
+}
+
+
+.profilename{
+	margin-top: 10px;
+  margin-bottom: 1px;
+  margin-right: 10px;
+  margin-left: 10px;
+ 
+}
+
+.Portfolio{
+	margin: 20px 80px 5px 10px;
+}
+
+
+
+.profileimg {
+	width: 12.5%;
+	float: left;
+	margin: 8px 90px 30px 90px;
+	border: 5px solid black;
+	
+}
+
+.profileimg img {
+	width: 100%;
+	height: auto;
+	-webkit-border-radius: 10px;
+	border-radius: 100px;
+}
+
+#mywebsite {
+	width: 100%;
+	max-width: 800px;
+	background: white;
+	margin: 30px auto;
+}
+
+.sectionTitle{
+	color: red;
+	margin: 10px;
+	font-family: Helvetica; 
+	font-style: italic;
+	font-size: 15px;
+	text-decoration: underline;
+}
+
+
+
+#topContent{
+	background: #7a9e9f;
+	margin: 15px;
+}
+
+.contactDetails
+{
+	color: black;
+	margin-bottom: 10px;
+}
+
+h3{
+	margin: 15px;
+}
